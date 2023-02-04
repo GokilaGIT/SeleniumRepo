@@ -13,7 +13,7 @@ public static void main(String[] args) {
 	boolean isDamaged = false;
 	
 	System.out.println(mobileBrandName);
-	System.out.println(mobileLogo);d
+	System.out.println(mobileLogo);
 	System.out.println(noOfMobilePiece);
 	System.out.println(modelNumber);
 	System.out.println(mobilePrice);
